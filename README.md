@@ -1,5 +1,11 @@
 # Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components
 
+### Requirements
+* A Salesforce Developer Account / Trailhead Playground ( https://www.salesforce.com/form/signup/prerelease-spring19/ )
+* SFDX CLI ( https://developer.salesforce.com/tools/sfdxcli)
+
+Follow this trailhead to setup SFDX CLI  (https://trailhead.salesforce.com/en/content/learn/modules/sfdx_app_dev/sfdx_app_dev_setup_dx)
+
 ### Set Up the Ursus Park App
 
 Open a command prompt, such as cmd on Windows or Terminal on MacOS.
